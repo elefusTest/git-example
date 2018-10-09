@@ -10,10 +10,10 @@ public class Example1 {
 
     }
 
-//    static int method() {
-//        System.out.println("int");
-//        return 1;
-//    }
+    static int method() {
+        System.out.println("int");
+        return 1;
+    }
 
     static void method(Object ref) {
         System.out.println("void");
@@ -31,3 +31,4 @@ public class Example1 {
 
     }
 }
+
