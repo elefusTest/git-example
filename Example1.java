@@ -1,6 +1,5 @@
 package com.epam.se02;
 
-@SuppressWarnings("all")
 public class Example1 {
 
     public static void main(String[] args) {
