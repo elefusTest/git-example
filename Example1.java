@@ -28,7 +28,7 @@ public class Example1 {
     }
 
     static void method1() {
-
+		sout;
     }
 }
 
